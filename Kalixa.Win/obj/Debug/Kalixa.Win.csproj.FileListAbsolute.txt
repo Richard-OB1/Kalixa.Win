@@ -1,0 +1,5 @@
+D:\dev\Kalixa.Win\Kalixa.Win\bin\Debug\Kalixa.Win.exe.config
+D:\dev\Kalixa.Win\Kalixa.Win\bin\Debug\Kalixa.Win.exe
+D:\dev\Kalixa.Win\Kalixa.Win\bin\Debug\Kalixa.Win.pdb
+D:\dev\Kalixa.Win\Kalixa.Win\obj\Debug\Kalixa.Win.exe
+D:\dev\Kalixa.Win\Kalixa.Win\obj\Debug\Kalixa.Win.pdb
